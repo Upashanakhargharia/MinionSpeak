@@ -29,6 +29,7 @@
     padding: 2rem;
     color: blue;
     text-align: center;
+    background-image: url(banana.webp);
     
 
 }
@@ -49,6 +50,7 @@
     align-items: right;
     text-align: center;
     margin: auto;
+    background-image: url(banana.webp);
  }
 
  #output{
