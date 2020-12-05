@@ -1,35 +1,36 @@
 .container
 {
     max-width: 100%;
-    height:60%;
+    height:100%;
     padding: 1rem;
     margin: auto;
     text-align: center;
+    background-image: url(mini.jpg);
+    
+    
 }
 
 .div1{
    max-width: 80%;
     height: 100%;
-    background-color: rgb(235, 235, 148);
+    background-color: black;
     align-items: center;
     padding: 1rem;
     display: block center;
     text-align: center;
     margin: auto;
-    background-image: url(minion3.webp);
-    
-    
 
 }
 .header
 {
     height: 50px;
     text-align: center bold;
-    background-color: yellow;
+    background-color: rgb(252, 255, 47);
     padding: 2rem;
     color: blue;
     text-align: center;
-    background-image: url(banana.webp);
+    opacity: 80%;
+  
     
 
 }
